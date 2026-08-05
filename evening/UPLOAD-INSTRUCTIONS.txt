@@ -1,0 +1,18 @@
+CEREMONY AND EVENING WEBSITE
+
+Upload the entire 'evening' folder into the top level of your existing GitHub Pages repository.
+
+The page will then be available at:
+https://YOUR-USERNAME.github.io/evening/
+
+It reuses the existing files in:
+../assets/images/
+
+Current shared password:
+amesbury
+
+RSVP form:
+https://tally.so/r/ODZdb8
+
+RSVP deadline:
+21st August 2026
